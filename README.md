@@ -19,3 +19,7 @@ This repository contains a Jupyter Notebook and Python scripts to preprocess dat
 1. Clone the repository:
    ```bash
    git clone https://github.com/cmmdeveloper/crypto-prediction.git
+
+2. pip install -r requirements.txt
+3. jupyter notebook notebooks/crypto_prediction_notebook.ipynb
+
